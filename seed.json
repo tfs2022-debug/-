@@ -1,0 +1,368 @@
+{
+  "matches": [
+    {
+      "id": 1,
+      "date": "2026-10-04",
+      "group": "A",
+      "home": "أول ثانوي 1",
+      "away": "ثاني ثانوي 4",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeScorers": "قصي فراس",
+      "awayScorers": "محمد هاني - محمد هاني",
+      "mvp": "محمد هاني",
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "date": "2026-10-06",
+      "group": "B",
+      "home": "أول ثانوي 2",
+      "away": "ثاني ثانوي 6",
+      "homeScore": 0,
+      "awayScore": 5,
+      "homeScorers": "",
+      "awayScorers": "رياض القرني - نواف الاحمدي - نواف الاحمدي - عمر ",
+      "mvp": "نواف الاحمدي",
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "date": "2026-10-08",
+      "group": "C",
+      "home": "أول ثانوي 3",
+      "away": "ثاني ثانوي 2",
+      "homeScore": 1,
+      "awayScore": 4,
+      "homeScorers": "",
+      "awayScorers": "مهند العمري - مهند العمري عبد الرحمن ال مسعود ",
+      "mvp": "مهند العمري",
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "date": "2026-10-11",
+      "group": "D",
+      "home": "أول ثانوي 4",
+      "away": "ثاني ثانوي 5",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeScorers": "",
+      "awayScorers": "عمر العوفي - عمر العوفي",
+      "mvp": "نبيل درندري",
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "date": "2026-10-13",
+      "group": "E",
+      "home": "أول ثانوي 5",
+      "away": "ثاني ثانوي 1",
+      "homeScore": 3,
+      "awayScore": 5,
+      "homeScorers": "عمر - نايف - معتز ",
+      "awayScorers": "عبدالرحمن - عبدالرحمن - عبدالله - عبدالله - سلطان",
+      "mvp": "عبدالله الردادي",
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "date": "2026-10-15",
+      "group": "F",
+      "home": "أول ثانوي 6",
+      "away": "ثاني ثانوي 3",
+      "homeScore": 1,
+      "awayScore": 4,
+      "homeScorers": "",
+      "awayScorers": "محمد فلاته 3 - بدر",
+      "mvp": "محمد فلاته",
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "date": "2026-10-18",
+      "group": "A",
+      "home": "ثاني ثانوي 4",
+      "away": "ثالث ثانوي 2",
+      "homeScore": 0,
+      "awayScore": 4,
+      "homeScorers": "",
+      "awayScorers": "ماجد - عمر - تركي - راكان",
+      "mvp": "",
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "date": "2026-10-20",
+      "group": "B",
+      "home": "ثاني ثانوي 6",
+      "away": "ثالث ثانوي 5",
+      "homeScore": null,
+      "awayScore": null,
+      "homeScorers": "",
+      "awayScorers": "",
+      "mvp": "",
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "date": "2026-10-22",
+      "group": "C",
+      "home": "ثاني ثانوي 2",
+      "away": "ثالث ثانوي 6",
+      "homeScore": null,
+      "awayScore": null,
+      "homeScorers": "",
+      "awayScorers": "",
+      "mvp": "",
+      "notes": ""
+    },
+    {
+      "id": 10,
+      "date": "2026-10-25",
+      "group": "D",
+      "home": "ثاني ثانوي 5",
+      "away": "ثالث ثانوي 1",
+      "homeScore": null,
+      "awayScore": null,
+      "homeScorers": "",
+      "awayScorers": "",
+      "mvp": "",
+      "notes": ""
+    },
+    {
+      "id": 11,
+      "date": "2026-10-27",
+      "group": "E",
+      "home": "ثاني ثانوي 1",
+      "away": "ثالث ثانوي 4",
+      "homeScore": null,
+      "awayScore": null,
+      "homeScorers": "",
+      "awayScorers": "",
+      "mvp": "",
+      "notes": ""
+    },
+    {
+      "id": 12,
+      "date": "2026-10-29",
+      "group": "F",
+      "home": "ثاني ثانوي 3",
+      "away": "ثالث ثانوي 3",
+      "homeScore": null,
+      "awayScore": null,
+      "homeScorers": "",
+      "awayScorers": "",
+      "mvp": "",
+      "notes": ""
+    },
+    {
+      "id": 13,
+      "date": "2026-11-01",
+      "group": "A",
+      "home": "ثالث ثانوي 2",
+      "away": "أول ثانوي 1",
+      "homeScore": null,
+      "awayScore": null,
+      "homeScorers": "",
+      "awayScorers": "",
+      "mvp": "",
+      "notes": ""
+    },
+    {
+      "id": 14,
+      "date": "2026-11-03",
+      "group": "B",
+      "home": "ثالث ثانوي 5",
+      "away": "أول ثانوي 2",
+      "homeScore": null,
+      "awayScore": null,
+      "homeScorers": "",
+      "awayScorers": "",
+      "mvp": "",
+      "notes": ""
+    },
+    {
+      "id": 15,
+      "date": "2026-11-05",
+      "group": "C",
+      "home": "ثالث ثانوي 6",
+      "away": "أول ثانوي 3",
+      "homeScore": null,
+      "awayScore": null,
+      "homeScorers": "",
+      "awayScorers": "",
+      "mvp": "",
+      "notes": ""
+    },
+    {
+      "id": 16,
+      "date": "2026-11-08",
+      "group": "D",
+      "home": "ثالث ثانوي 1",
+      "away": "أول ثانوي 4",
+      "homeScore": null,
+      "awayScore": null,
+      "homeScorers": "",
+      "awayScorers": "",
+      "mvp": "",
+      "notes": ""
+    },
+    {
+      "id": 17,
+      "date": "2026-11-10",
+      "group": "E",
+      "home": "ثالث ثانوي 4",
+      "away": "أول ثانوي 5",
+      "homeScore": null,
+      "awayScore": null,
+      "homeScorers": "",
+      "awayScorers": "",
+      "mvp": "",
+      "notes": ""
+    },
+    {
+      "id": 18,
+      "date": "2026-11-12",
+      "group": "F",
+      "home": "ثالث ثانوي 3",
+      "away": "أول ثانوي 6",
+      "homeScore": null,
+      "awayScore": null,
+      "homeScorers": "",
+      "awayScorers": "",
+      "mvp": "",
+      "notes": ""
+    }
+  ],
+  "finals": [
+    {
+      "id": 1,
+      "round": "ربع النهائي 1",
+      "date": "2026-11-15"
+    },
+    {
+      "id": 2,
+      "round": "ربع النهائي 2",
+      "date": "2026-11-16"
+    },
+    {
+      "id": 3,
+      "round": "ربع النهائي 3",
+      "date": "2026-11-17"
+    },
+    {
+      "id": 4,
+      "round": "ربع النهائي 4",
+      "date": "2026-11-18"
+    },
+    {
+      "id": 5,
+      "round": "نصف النهائي 1",
+      "date": "2026-11-19"
+    },
+    {
+      "id": 6,
+      "round": "نصف النهائي 2",
+      "date": "2026-11-22"
+    },
+    {
+      "id": 7,
+      "round": "النهائي",
+      "date": "2026-11-23"
+    }
+  ],
+  "initialScorers": [
+    {
+      "name": "بدر",
+      "team": "ثاني ثانوي 3",
+      "goals": 1
+    },
+    {
+      "name": "تركي",
+      "team": "ثالث ثانوي 2",
+      "goals": 1
+    },
+    {
+      "name": "راكان",
+      "team": "ثالث ثانوي 2",
+      "goals": 1
+    },
+    {
+      "name": "رياض القرني",
+      "team": "ثاني ثانوي 6",
+      "goals": 1
+    },
+    {
+      "name": "سلطان",
+      "team": "ثاني ثانوي 1",
+      "goals": 1
+    },
+    {
+      "name": "عبدالرحمن",
+      "team": "ثاني ثانوي 1",
+      "goals": 2
+    },
+    {
+      "name": "عبدالله",
+      "team": "ثاني ثانوي 1",
+      "goals": 2
+    },
+    {
+      "name": "عمر",
+      "team": "ثاني ثانوي 6",
+      "goals": 3
+    },
+    {
+      "name": "عمر العوفي",
+      "team": "ثاني ثانوي 5",
+      "goals": 2
+    },
+    {
+      "name": "قصي فراس",
+      "team": "أول ثانوي 1",
+      "goals": 1
+    },
+    {
+      "name": "ماجد",
+      "team": "ثالث ثانوي 2",
+      "goals": 1
+    },
+    {
+      "name": "محمد فلاته",
+      "team": "ثاني ثانوي 3",
+      "goals": 3
+    },
+    {
+      "name": "محمد هاني",
+      "team": "ثاني ثانوي 4",
+      "goals": 2
+    },
+    {
+      "name": "معتز",
+      "team": "أول ثانوي 5",
+      "goals": 1
+    },
+    {
+      "name": "مهند العمري",
+      "team": "ثاني ثانوي 2",
+      "goals": 1
+    },
+    {
+      "name": "مهند العمري عبد الرحمن ال مسعود",
+      "team": "ثاني ثانوي 2",
+      "goals": 1
+    },
+    {
+      "name": "نايف",
+      "team": "أول ثانوي 5",
+      "goals": 1
+    },
+    {
+      "name": "نواف الاحمدي",
+      "team": "ثاني ثانوي 6",
+      "goals": 2
+    }
+  ],
+  "source": "دوري رؤية وطن 2030 - الهدافون مرتبطون.xlsx"
+}
